@@ -1,0 +1,23 @@
+{
+  "name": "Node-Word-Guess-Game",
+  "version": "1.0.0",
+  "description": "A Word-Guess game to play in the Command-Line using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MendezAndrewM/Node-Word-Guess-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MendezAndrewM/Node-Word-Guess-Game/issues"
+  },
+  "homepage": "https://github.com/MendezAndrewM/Node-Word-Guess-Game#readme",
+  "dependencies": {
+    "inquirer": "6.4.1"
+  }
+}
