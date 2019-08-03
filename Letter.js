@@ -1,4 +1,4 @@
-function Letter(l) {
+const Letter = function(l) {
     this.letter = l,
     this.found = false,
     this.display = "_",
@@ -10,4 +10,4 @@ function Letter(l) {
     }
 }
 
-export default Letter;
+module.exports = Letter;
